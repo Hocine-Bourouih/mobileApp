@@ -1,0 +1,153 @@
+# React Native
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# React Native
+.expo/
+.expo-shared/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+dist/
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+*.iml
+
+# iOS
+ios/build/
+ios/Pods/
+ios/*.xcworkspace
+ios/*.xcuserdata
+ios/Podfile.lock
+
+# Flipper
+ios/Flipper-Folly
+
+# CocoaPods
+ios/Pods/
+ios/Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Bundle artifacts
+*.jsbundle
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+firebase-debug.log
+
+# Testing
+coverage/
+.nyc_output/
+__tests__/coverage/
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary folders
+tmp/
+temp/
+
+# Build outputs
+build/
+dist/
+
+# Metro
+.metro-health-check*
+
+# Watchman
+.watchmanconfig
+
+# Buck
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+*.iml
+.idea/
+.gradle
+local.properties
+.navigation/
+captures/
+output.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# Detox
+.detoxrc.json
+
+# Misc
+.hg/
+.svn/
+CVS/
+.sass-cache/
+connect.lock
+typings/
+.angular/
